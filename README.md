@@ -32,10 +32,9 @@
 
 ---
 
-## 📂 Repositorio
+## Repositorio
 
-🔗 [Enlace al repositorio](https://link-al-repositorio.com)  
-*(Reemplazar con el link real)*
+[Enlace al repositorio](https://github.com/GenSparkISPC/Practica-ProfesionalizanteI.git)  
 
 ---
 
